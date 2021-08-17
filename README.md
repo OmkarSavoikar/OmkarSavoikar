@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+
+I'm a Computer Science graduate. 
+
+![Visitor Count](https://profile-counter.glitch.me/OmkarSavoikar/count.svg)
+
 <!--
 **OmkarSavoikar/OmkarSavoikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
