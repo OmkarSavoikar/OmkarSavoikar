@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-25a071219/)](https://www.linkedin.com/in/omkar-s-25a071219/)
+[![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-25a071219/)](https://www.linkedin.com/in/omkar-s-25a071219/)
 
 I'm a Computer Science graduate. 
 
