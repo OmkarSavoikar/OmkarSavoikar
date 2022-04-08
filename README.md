@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-25a071219/)](https://www.linkedin.com/in/omkar-s-25a071219/)
 
-I'm a Computer Science graduate. 
+I am a BSc Computer Science graduate. I am currently in First Year of MCA in Goa University.
 
 ![Visitor Count](https://profile-counter.glitch.me/OmkarSavoikar/count.svg)
 
