@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-25a071219/)](https://www.linkedin.com/in/omkar-s-25a071219/)
 
 I am a BSc Computer Science graduate. I am currently in First Year of MCA in Goa University.
+Also check my university Github [![GitHub Badge](https://img.shields.io/badge/-Omkar_Savoikar-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Omkar-Savoikar/)](https://github.com/Omkar-Savoikar)
 
 ![Visitor Count](https://profile-counter.glitch.me/OmkarSavoikar/count.svg)
 
